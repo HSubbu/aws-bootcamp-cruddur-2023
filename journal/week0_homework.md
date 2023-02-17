@@ -31,6 +31,9 @@ https://lucid.app/lucidchart/0f5860ce-2327-4b39-8aaf-16e5282269f5/edit?invitatio
 
 <img width="736" alt="image" src="https://user-images.githubusercontent.com/30765337/219724856-cef35bac-9ab4-4d6a-b75b-9b0261f9e2ca.png">
 
+<img width="1001" alt="image" src="https://user-images.githubusercontent.com/30765337/219814886-eef4d97b-6664-4170-8544-752633b56504.png">
+
+
 **CLOUD SHELL**
 
 AWS CloudShell is a browser-based shell that makes it easier to securely manage, explore, and interact with your AWS resources. CloudShell is pre-authenticated with your console credentials.
