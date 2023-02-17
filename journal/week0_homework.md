@@ -1,3 +1,19 @@
+
+**INITIAL PREPARATION**
+
+Rgistered for registered the following services:
+
+* Github Account. - already had an A/c
+* Create a Gitpod account and install the extension for your browser(chrome)
+* Create Github CodeSpace.
+* Create the AWS account - Using existing rot a/c but created a IAM user 
+* Create Lucidchart. This app allows you to create chart/diagrams. 
+* honeycomb.io account
+* Create Rollbar account.
+
+
+
+
 **ARCHITECTURE DIAGRAM**
 
 https://lucid.app/lucidchart/0f5860ce-2327-4b39-8aaf-16e5282269f5/edit?invitationId=inv_12a7a84e-1c67-4ed7-928c-a519db19a6af
