@@ -55,6 +55,22 @@ similerly , a budget limit has been created through Billing>budget on AWS consol
 
 **CREATING A BUDGET THROUGH AWS CLI**
 
+We can launch gitpod using the button on github repo . The gitpod yaml file has been changed to include tasks for launching AWS CLI during the startup. The launch commands include curl,unzip linux commands. We can verify installation of AWS CLI on gipod/VS code Terminal. 
+
+<img width="606" alt="image" src="https://user-images.githubusercontent.com/30765337/219813230-adbb96c4-2e95-41f0-b5af-5b732b7e0275.png">
+
+The AWS account ID has been exported as an ENV variable and stored in gitpod using export and gp env commands. The same is verified .
+
+<img width="558" alt="image" src="https://user-images.githubusercontent.com/30765337/219813703-8354ea7d-9616-4d61-9d71-c73852592354.png">
+
+To create a AWS budhet , as per the instructions in the CLI documentation, we create two JSON files with budget configurations. 
+
+<img width="683" alt="image" src="https://user-images.githubusercontent.com/30765337/219814575-295829bb-75bb-4d4e-a023-d8402e807327.png">
+
+It is seen from the console that new budget has been created ,
+
+<img width="1104" alt="image" src="https://user-images.githubusercontent.com/30765337/219814636-4ec9f13c-c2e8-4f9f-9208-2a4a4917fffd.png">
+
 
 
 
